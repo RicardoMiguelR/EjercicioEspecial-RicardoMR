@@ -1,0 +1,14 @@
+/* Estios para el index -> */
+
+div.enlace-products p a.text-link {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.651);
+  border: 1px solid rgba(255, 255, 255, 0.651);
+  padding: 3px;
+  border-radius: 7px;
+}
+
+div.enlace-products p a.text-link:hover {
+  color: rgb(73, 180, 241);
+  border: 1px solid rgb(73, 180, 241);
+}
